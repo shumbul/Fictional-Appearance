@@ -1,4 +1,4 @@
-# fictional_appearance
+# Fictional Appearance
 
 ## An API based working model that generates one's fictional character with randomized appearance, personality traits & conflicts.
 
