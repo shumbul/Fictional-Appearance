@@ -5,6 +5,8 @@
 
 Know what your name depicts about your appearance
 
+![](Implementation%20Screenshots/Test1.png)
+
 ## Try the model by clicking [here](https://shumbul.github.io/fictional_appearance/).
 
 
