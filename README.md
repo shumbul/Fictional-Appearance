@@ -17,7 +17,7 @@ Know what your name depicts about your appearance
 
 <img src="Implementation%20Screenshots/Test5.png" width=75%>
 
-## Try the model by clicking [here](https://shumbul.github.io/fictional_appearance/).
+## Try the model by clicking [here](https://shumbul.github.io/Fictional-Appearance/).
 
 
 > Developed by Shumbul Arifa
